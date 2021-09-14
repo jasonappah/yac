@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.yahc">
+    package="com.example.yac">
    <application
-        android:label="yahc"
+        android:label="yac"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

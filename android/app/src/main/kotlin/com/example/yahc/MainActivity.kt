@@ -1,4 +1,4 @@
-package com.example.yahc
+package com.example.yac
 
 import io.flutter.embedding.android.FlutterActivity
 

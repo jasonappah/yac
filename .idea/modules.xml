@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/yahc.iml" filepath="$PROJECT_DIR$/yahc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/yahc_android.iml" filepath="$PROJECT_DIR$/android/yahc_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yac.iml" filepath="$PROJECT_DIR$/yac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/yac_android.iml" filepath="$PROJECT_DIR$/android/yac_android.iml" />
     </modules>
   </component>
 </project>
